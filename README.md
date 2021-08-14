@@ -1,16 +1,6 @@
 # 
 # Project-Finance - Aplicação web que calcula entradas e saídas monetárias
 
-
-## Índice
-
-- [Visão geral] (# visão geral)
-  - [O desafio] (# o-desafio)
-  - [Captura de tela] (# captura de tela)
-  - [Construido com] (# integrado)
-  - [O que aprendi] (# o-que-aprendi)
-
-
 ## Visão geral
 
 ### O desafio
@@ -35,9 +25,6 @@
 - CSS Grid
 - Fluxo de trabalho com responsividade
 
-- [Componentes estilizados] (https://styled-components.com/) - Para estilos
-
-** Nota: Estes são apenas exemplos. Exclua esta nota e substitua a lista acima por suas próprias escolhas **
 
 ### O que eu aprendi
 
