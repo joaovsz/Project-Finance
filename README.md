@@ -14,7 +14,7 @@
 
 ### Captura de tela
 
-...loading
+![Design da página inicial](./screenshots/inicio.png)
 
 
 ### Construído com
