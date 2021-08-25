@@ -12,22 +12,33 @@
 
 
 
-### Captura de tela
+### Página Inicial
+             
+![Design da página inicial](./screenshots/Inicio.png)
+### Modal para adicionar Entradas ou Saídas
+ ![Design do modall](./screenshots/Modal.png)
+### Página em funcionamento
+ ![Calculos sendo feitos](./screenshots/Funcional.png)
+ ### Responsividade na prática
+ ![Página responsiva](./screenshots/Responsiva.png)
+   
 
-![Design da página inicial](./screenshots/inicio.png)
 
 
 ### Construído com
 
 - Marcação HTML5 semântica
-- propriedades personalizadas CSS
+- Propriedades personalizadas CSS
 - Flexbox
 - CSS Grid
-- Fluxo de trabalho com responsividade
+- Funções em JavaScript
+
 
 
 ### O que eu aprendi
 
-...loading
+- Prática de DOM (Document Object Model)
+- Formulários HTML
+- Criação de um site responsivo usando o conceito de Mobile-First
   
     
