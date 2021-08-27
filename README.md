@@ -1,5 +1,5 @@
 # 
-# Project-Finance - Aplicação web que calcula entradas e saídas monetárias
+# Aplicação web que calcula entradas e saídas monetárias
 
 ## Visão geral
 
