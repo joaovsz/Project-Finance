@@ -1,46 +1,23 @@
-# 
-# Aplicação web que calcula entradas e saídas monetárias
+<h1 align="center">
+  <img src="assets/images/logo.png" alt="devFinances">
+</h1>
 
-## Visão geral
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-### Acesse : https://joaovsz.github.io/Project-Finance/
+## 💻 Projeto
+<p align="center">
+<img src="./screenshots/Responsiva.png">
+</p>
+O devFinances tem o objetivo de fazer cálculos monetários de uma forma intuitiva para ajudar o usuário a ter um controle de entradas e saídas em um período de tempo em que ele define.
 
-### O desafio
+## 🔖 Layout
 
-- Construir um site que se adapte aos vários tamanhos de tela (responsividade)
-- Utilizar funções usando JavaScript
-- Uso de pseudo-elements em CSS3
-- Construir Layouts com Grid e/ou flexbox
+Você pode visualizar o projeto em funcionamento através [desse link](https://joaovsz.github.io/Project-Finance/).
 
+---
 
-
-### Página Inicial
-             
-![Design da página inicial](./screenshots/Inicio.png)
-### Modal para adicionar Entradas ou Saídas
- ![Design do modall](./screenshots/Modal.png)
-### Página em funcionamento
- ![Calculos sendo feitos](./screenshots/Funcional.png)
- ### Responsividade na prática
- ![Página responsiva](./screenshots/Responsiva.png)
-   
-
-
-
-### Construído com
-
-- Marcação HTML5 semântica
-- Propriedades personalizadas CSS
-- Flexbox
-- CSS Grid
-- Funções em JavaScript
-
-
-
-### O que eu aprendi
-
-- Prática de DOM (Document Object Model)
-- Formulários HTML
-- Criação de um site responsivo usando o conceito de Mobile-First
-  
-    
+Feito com ♥ by JoãoVitor :wave: [Fale comigo!](mailto:joaovitor1713coin@gmail.com)
