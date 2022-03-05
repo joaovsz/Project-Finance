@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/images/logo.png" alt="devFinances">
+  <img src="assets/images/logo.svg" alt="devFinances">
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 <p align="center">
-<img src="./screenshots/Responsiva.png">
+<img src="./screenshots/Responsiva.png" width="70%">
 </p>
 O devFinances tem o objetivo de fazer cálculos monetários de uma forma intuitiva para ajudar o usuário a ter um controle de entradas e saídas em um período de tempo em que ele define.
 
